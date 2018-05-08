@@ -1,7 +1,7 @@
 # php-course
 Основы php
 
-# Questions-answers #
+# Questions-answers 
 * #### Переменные
     * **Как создать переменную в PHP?**
     ```php
